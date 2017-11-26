@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'checkstyle'" />
-    <option name="defaultScopeName" value="Project 'checkstyle'" />
-    <option name="SEARCH_SCOPE" value="Project 'checkstyle'" />
+    <option name="customScope" value="Directory '.../src/biblioteca/accesodatos - [biblioteca]'" />
+    <option name="defaultScopeName" value="Directory '.../src/biblioteca/accesodatos - [biblioteca]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/biblioteca/accesodatos - [biblioteca]'" />
   </component>
 </application>
