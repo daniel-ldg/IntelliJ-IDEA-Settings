@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src/biblioteca/accesodatos - [biblioteca]'" />
-    <option name="defaultScopeName" value="Directory '.../src/biblioteca/accesodatos - [biblioteca]'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src/biblioteca/accesodatos - [biblioteca]'" />
+    <option name="customScope" value="Directory '.../src/biblioteca/accesodatos/impl - [biblioteca]'" />
+    <option name="defaultScopeName" value="Directory '.../src/biblioteca/accesodatos/impl - [biblioteca]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../src/biblioteca/accesodatos/impl - [biblioteca]'" />
   </component>
 </application>
