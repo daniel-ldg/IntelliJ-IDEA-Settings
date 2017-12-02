@@ -1,0 +1,8 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="RegExp" injector-id="java">
+      <display-name>RegexValidator.RegexValidator (org.apache.commons.validator.routines)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("RegexValidator").withParameters("java.lang.String").definedInClass("org.apache.commons.validator.routines.RegexValidator"))]]></place>
+    </injection>
+  </component>
+</application>
